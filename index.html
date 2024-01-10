@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="loader_section" id="loader_section">
+    <span class="loader"></span>
+        
+    </div>
+    <div class="user_container" id="user_container">
+        <div class="user_inner_container" id="user_inner_container">
+            <div class="user_header">
+                <h2 class="header">Please Enter your name to proceed!!</h2
+            </div>
+            <form action="" method="post">
+                <div class="form_input">
+                    <input type="text" name="user_name" id="user_name" placeholder="Enter @username" autocomplete="off">
+                </div>
+                <div class="form_btn">
+                    <input type="submit" value="&#8594;" id="btn-submit">
+                </div>
+            </form>
+        </div>
+        <span class="btn-close" id="btn-close-span">X</span>
+    </div>
+    <div class="quiz-container" id="quiz-container">
+        <div class="quiz-header">
+            <div class="user_section">
+                <h4 class="user_section_header">&#8592;</h4>
+                <span class="user_section_analytics">...</span>
+            </div>
+            <div class="question_counter">
+                <span class="question_counter_processor" id="display">0</span>
+            </div>
+            <h2 id="question">Question Text</h2>
+            <ul>
+                <li>
+                    <input type="radio" id="a" name="answer" class="answer">
+                    <label for="a" id="a_a">Question a</label>
+                </li>
+                <li>
+                    <input type="radio" id="b" name="answer" class="answer">
+                    <label for="b" id="b_b">Question b</label>
+                </li>
+                <li>
+                    <input type="radio" id="c" name="answer" class="answer">
+                    <label for="c" id="c_c">Question c</label>
+                </li>
+                <li>
+                    <input type="radio" id="d" name="answer" class="answer">
+                    <label for="d" id="d_d">Question d</label>
+                </li>
+            </ul>
+        </div>
+        <button id="submit">next  &#8594;</button>
+    </div>
+</body>
+<script src="script.js" type="module"></script>
+</html>

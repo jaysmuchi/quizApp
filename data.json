@@ -1,0 +1,145 @@
+[
+        {
+            "question":"How many planets do we have in space?",
+            "a":"9",
+            "b":"10",
+            "c":"11",
+            "d":"None of the above",
+            "correct":"a"
+        },
+        {
+            "question":"Who wrote this Quiz programme?",
+            "a":"Adam smith",
+            "b":"George Thompson",
+            "c":"Albert Mercury",
+            "d":"Jays Mucci",
+            "correct":"d"
+        },{
+            "question":"How many days to we have in a year?",
+            "a":"12 days",
+            "b":"36 days",
+            "c":"366 days",
+            "d":"365 days",
+            "correct":"d"
+        },{
+            "question":"what did you greet in the morning?",
+            "a":"Good Night",
+            "b":"Good Day",
+            "c":"Good Evening",
+            "d":"None of the above",
+            "correct":"d"
+        },{
+            "question":"Who is the president of United States?",
+            "a":"Donald trump",
+            "b":"Barack Obama",
+            "c":"Jeo Biden",
+            "d":"Jays Mucci",
+            "correct":"c"
+        },{
+            "question":"How many means of Transportation do we have?",
+            "a":"9",
+            "b":"2",
+            "c":"4",
+            "d":"3",
+            "correct":"d"
+        },{
+            "question":"What does HTML stands For?",
+            "a":"Hypertext Markup Language",
+            "b":"Cascading Style sheet",
+            "c":"Json Object Notation",
+            "d":"Application Programming Interface",
+            "correct":"a"
+        },{
+            "question":"What year was Javascipt found?",
+            "a":"2020",
+            "b":"2012",
+            "c":"1999",
+            "d":"1995",
+            "correct":"d"
+        },{
+            "question":"Which animal is known as 'ship of the Desert'?",
+            "a":"Goat",
+            "b":"Hen",
+            "c":"Camel",
+            "d":"Ox",
+            "correct":"c"
+        },{
+            "question":"How many days are there in a Week?",
+            "a":"12 days",
+            "b":"7 days",
+            "c":"6 days",
+            "d":"8 days",
+            "correct":"b"
+        },{
+            "question":"Rainbow consits of how many colors?",
+            "a":"9 colors",
+            "b":"5 colors",
+            "c":"7 colors",
+            "d":"10 colors",
+            "correct":"c"
+        },{
+            "question":"How many minutes are there in an hour?",
+            "a":"50 minutes",
+            "b":"60 minutes",
+            "c":"10 minutes",
+            "d":"1 minutes",
+            "correct":"b"
+        },{
+            "question":"How many seconds are there in a minute?",
+            "a":"1000 seconds",
+            "b":"10 seconds",
+            "c":"60 seconds",
+            "d":"7 seconds",
+            "correct":"c"
+        },{
+            "question":"How many seconds make one hour?",
+            "a":"50 seconds",
+            "b":"60 seconds",
+            "c":"360 seconds",
+            "d":"3600 seconds",
+            "correct":"d"
+        },{
+            "question":"Baby Frog is known as?",
+            "a":"Toad",
+            "b":"Tadpole",
+            "c":"Eel",
+            "d":"Octopus",
+            "correct":"b"
+        },{
+            "question":"How many continents are there in the world?",
+            "a":"8 continent",
+            "b":"12 continent",
+            "c":"90 continent",
+            "d":"7 continent",
+            "correct":"d"
+        },{
+            "question":"Name the biggest continent in the world?",
+            "a":"Africa",
+            "b":"America",
+            "c":"Asia",
+            "d":"London",
+            "correct":"c"
+        },{
+            "question":"which is the smallest month of the Year?",
+            "a":"October",
+            "b":"January",
+            "c":"April",
+            "d":"Febuary",
+            "correct":"d"
+        },{
+            "question":"Name the Largest Mammal?",
+            "a":"Shark",
+            "b":"Cat Fish",
+            "c":"Blue Whale",
+            "d":"Mice",
+            "correct":"c"
+        },{
+            "question":"Which color symbolises peace?",
+            "a":"White",
+            "b":"Green",
+            "c":"Magenta",
+            "d":"Black",
+            "correct":"a"
+        }
+   
+]
